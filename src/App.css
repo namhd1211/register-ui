@@ -31,3 +31,45 @@
     transform: rotate(360deg);
   }
 }
+.mt-30 {
+  margin-top: 30px
+}
+
+.form-horizontal {
+    max-width: 530px;
+    padding: 15px;
+    margin: 0 auto;
+    border-radius: 0.3em;
+}
+
+.form-horizontal h2 {
+    font-family: 'Open Sans' , sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    color: #000000;
+    margin-top: 5%;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+.bg-4 {
+  background: #663366;
+  height: 90px;
+  color:#ffffff;
+  text-align: center;
+  text-transform: uppercase;
+}
+.custom {
+  background: #663366;
+  color: #ffffff;
+}
+.custom:hover {
+  background: #663366;
+  color: #ffffff;
+}
+.hidden {
+    display:none;
+}
+.help-block {
+    color: red;
+}
